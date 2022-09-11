@@ -2,10 +2,10 @@
  * Abigail Solomon
  * CS 4375.003
  * Assignment_1
- *  
- *  This program will do data exploration with statistical  functions 
-    on boston.csv file with C++. 
- *    
+ *
+ *  This program will do data exploration with statistical  functions
+	on boston.csv file with C++.
+ *
  */
 
 #include <iostream>
@@ -22,9 +22,9 @@ using namespace std;
 // Prototypes- Declaration of functions  
 
 double sum(vector <double>);
-double mean(vector <double> );
-double median(vector <double> );
-double range(vector <double> );
+double mean(vector <double>);
+double median(vector <double>);
+double range(vector <double>);
 double covariance(vector<double>, vector<double>);
 double correlation(vector<double>, vector<double>);
 
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
 	inFS.close();
 
 	cout << " Number of records: " << numObservations << endl;
-	
+
 
 	// Calling the statistical  functions for rm
 
