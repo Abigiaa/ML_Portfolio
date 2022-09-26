@@ -13,12 +13,12 @@ You can see the [code here](Program_1.cpp) and a [descriptive document here](bos
 
 This program will do a linear regression on the data....
 
-You can see the [Rmd file](regression.Rmd)
+You can see the [Rmd file here](regression.Rmd) and the [Rmd-print-to-pdf here](regression.pdf)
 
 
 ### Program 2.2
 
 This program will do a logistic regression and naive Bayes on the data....
 
-You can see the [Rmd file](Classification.Rmd)
+You can see the [Rmd file here](Classification.Rmd)
 
