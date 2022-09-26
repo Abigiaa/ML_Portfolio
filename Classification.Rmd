@@ -1,7 +1,6 @@
 ---
 title: "Classification R Notebook"
-author: "Subash Chandra - SXC200027"
-author: "Abigail Solomon - tsm190000"
+author: "Subash Chandra - SXC200027 and Abigail Solomon - tsm190000"
 output:
   pdf_document: default
   html_document:
