@@ -36,5 +36,5 @@ This program did the similarity models Regression,Classification,Clustering and 
 
 You can see the Rmd print-to-pdfs for Regression [here](RegressionNotebook.pdf), for Classification [here](ClassificationNotebook.pdf)
 
-for PCA_LDA [here](PCA_LDA_Notebook.pdf), for Clustering [here](ClusteringNotebook.pdf), and the narrative document [here](Searching_For_Similarity.pdf)
+for PCA_LDA [here](PCA_LDA.pdf), for Clustering [here](ClusteringNotebook.pdf), and the narrative document [here](Searching_For_Similarity.pdf)
  
