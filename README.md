@@ -30,3 +30,11 @@ You can see the logistic regression [code here](LogisticRegression.cpp) and the 
 
 You can see the [report document here](Report.pdf)
 
+##### Program 4
+
+This program did the similarity models Regression,Classification,Clustering and PCA_LDA on a datasets.
+
+You can see the Rmd print-to-pdfs for Regression [here](RegressionNotebook.pdf), for Classification [here](ClassificationNotebook.pdf)
+
+for PCA_LDA [here](PCA_LDA.pdf), for Clustering [here](clustering.pdf), and the narrative document [here](Searching_For_Similarity.pdf)
+ 
