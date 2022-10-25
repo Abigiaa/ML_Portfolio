@@ -37,4 +37,11 @@ This program did the similarity models Regression,Classification,Clustering and 
 You can see the Rmd print-to-pdfs for Regression [here](RegressionNotebook.pdf), for Classification [here](ClassificationNotebook.pdf)
 
 for PCA_LDA [here](PCA_LDA.pdf), for Clustering [here](ClusteringNotebook.pdf), and the narrative document [here](Searching_For_Similarity.pdf)
- 
+
+###### Program 5
+
+This program did Kernel and Ensemble methods on a datasets.
+
+You can see the Rmd print-to-pdfs for Ensemble methods [here](ensemble_methods.pdf), for SVM_Classification [here](SVM_Classification.Rmd)
+
+, for SVM_Regression [here](SVM_Regression.Rmd), and the narrative document [here](Kernel and Ensemble Methods.pdf)
