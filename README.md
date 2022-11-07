@@ -42,9 +42,9 @@ for PCA_LDA [here](PCA_LDA.pdf), for Clustering [here](ClusteringNotebook.pdf), 
 
 This program did Kernel and Ensemble methods on a datasets.
 
-You can see the Rmd print-to-pdfs for Ensemble methods [here](ensemble_methods.pdf), for SVM_Classification [here](SVM_Classification.Rmd)
+You can see the Rmd print-to-pdfs for Ensemble methods [here](ensemble_methods.pdf), for SVM_Classification [here](SVM_Classification.pdf)
 
-, for SVM_Regression [here](SVM_Regression.Rmd), and the narrative document [here](Kernel and Ensemble Methods.pdf)
+, for SVM_Regression [here](SVM_Regression.pdf), and the narrative document [here](Kernel and Ensemble Methods.pdf)
 
 ## Program 6
 
