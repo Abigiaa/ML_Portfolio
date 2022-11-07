@@ -45,3 +45,9 @@ This program did Kernel and Ensemble methods on a datasets.
 You can see the Rmd print-to-pdfs for Ensemble methods [here](ensemble_methods.pdf), for SVM_Classification [here](SVM_Classification.Rmd)
 
 , for SVM_Regression [here](SVM_Regression.Rmd), and the narrative document [here](Kernel and Ensemble Methods.pdf)
+
+###### Program 6
+
+This program did data analysis in sklearn on a small data set.
+
+You can see the print-to-pdf [here](MLwithSklearn.pdf)
