@@ -48,6 +48,6 @@ You can see the Rmd print-to-pdfs for Ensemble methods [here](ensemble_methods.p
 
 ### Program 6
 
-This program did data analysis in sklearn on a small data set.
+This program did data analysis in machine learning with sklearn on a small data set.
 
 You can see the print-to-pdf [here](MLwithSklearn.pdf)
